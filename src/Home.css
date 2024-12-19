@@ -1,0 +1,27 @@
+/* Home.css */
+
+h1 {
+    font-size: 4rem !important;
+    color: #4CAF50; 
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: #007BFF; 
+    font-size: 20px;
+  }
+  
+  li a:hover {
+    color: #FF5722; 
+  }
+  
